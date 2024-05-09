@@ -1,5 +1,7 @@
 # testlan
 
+THESE ARE <b>MAIN</b> LANGUAGE FOLDERS (no plugins or themes etc.)
+
 files with texts NOT used are NOT converted to LAN's (so defines only for used messages)
 
 reason behind : obsolete or put on backhold for future use
